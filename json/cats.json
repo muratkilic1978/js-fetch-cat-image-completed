@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fluffy",
+        "weight": "5 kg",
+        "breed": "Persian",
+        "image": "img/persian-cat.jpg"
+    },
+    {
+        "name": "Whiskers",
+        "weight": "3.5 kg",
+        "breed": "Siamese",
+        "image": "img/siamese-cat.jpg"
+    },
+    {
+        "name": "Tiger",
+        "weight": "7 kg",
+        "breed": "Bengal",
+        "image": "img/bengal-cat.jpg"
+    },
+    {
+        "name": "Panda",
+        "weight": "2.9 kg",
+        "breed": "Asian",
+        "image": "img/asian-cat.jpg"
+    }
+]
